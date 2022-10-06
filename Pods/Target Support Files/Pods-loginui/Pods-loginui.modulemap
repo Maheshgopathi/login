@@ -1,0 +1,6 @@
+framework module Pods_loginui {
+  umbrella header "Pods-loginui-umbrella.h"
+
+  export *
+  module * { export * }
+}
